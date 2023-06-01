@@ -15,7 +15,7 @@ body {
 .clock {
   display: flex;
   height:350px;
-  aspect-ratio:1/1;
+  width:350px;
   justify-content: center;
   align-items: center;
   background: url(pngegg.png);
